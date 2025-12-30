@@ -1,8 +1,8 @@
 {
   "name": "fluoroscopy-outline",
   "version": "1.0.0",
-  "productName": "Minecraft Add-On Starter Project",
-  "description": "myaddonStarter",
+  "productName": "Minecraft Resource Pack Project",
+  "description": "Resource pack for outlining ores with their block color.",
   "private": true,
   "devDependencies": {
     "@minecraft/core-build-tasks": "^5.5.0",
