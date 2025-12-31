@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/sponsors/ryanlua">
-    <img alt="ghsponsors-plural" height="32" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/ghsponsors-plural_46h.png">
+    <img alt="ghsponsors-singular" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/ghsponsors-singular_46h.png">
   </a>
 </div>
 
