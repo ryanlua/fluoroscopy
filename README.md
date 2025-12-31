@@ -4,6 +4,9 @@
 
 A Minecraft Bedrock resource pack that outlines ores with their block color, making them easier to spot while mining.
 
+![Screenshot of Overworld](assets/overworld_screenshot.png)
+![Screenshot of Nether](assets/nether_screenshot.png)
+
 ## Ores
 
 This resource pack adds colored outlines to all ore blocks in Minecraft, including:
