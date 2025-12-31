@@ -1,0 +1,29 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [24]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      - name: Using Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+      - name: Test and build mcpack
+        run: |
+          npm ci
+          npm run lint
+          npm run mcpack
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2.5.0
+        with:
+          draft: true
+          files: "dist/packages/*.mcpack"
