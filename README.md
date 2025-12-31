@@ -2,7 +2,7 @@
   <img alt="Fluoroscopy Ore Outline logo" width="512" src="assets/logo.png">
 </h1>
 
-A Minecraft Bedrock resource pack that outlines ores with their block color, making them easier to spot while mining.
+A Minecraft Bedrock resource pack that outlines ores with their block color for faraway identification and easier mining. Fluoroscopy Outline is designed around the [new Bedrock Textures](https://www.minecraft.net/en-us/article/try-new-bedrock-textures) and supports Vibrant Visuals.
 
 ![Screenshot of Overworld](assets/overworld_screenshot.png)
 ![Screenshot of Nether](assets/nether_screenshot.png)
