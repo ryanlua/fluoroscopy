@@ -17,12 +17,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
-      - name: Use Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: "npm"
-      - name: Test and build mcpack
+      - name: Test mcpack
         run: |
           npm ci
           npm run test

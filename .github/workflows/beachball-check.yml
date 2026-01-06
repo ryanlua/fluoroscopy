@@ -11,13 +11,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
-      - name: Use Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: "npm"
-      - run: npx beachball check
+      - name: Validate change files
+        run: npx beachball check
