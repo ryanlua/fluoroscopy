@@ -1,15 +1,15 @@
 import minecraftLinting from "eslint-plugin-minecraft-linting";
-import tsParser from "@typescript-eslint/parser";
-import ts from "@typescript-eslint/eslint-plugin";
+import tseslint from "typescript-eslint";
+
 export default [
   {
     files: ["scripts/**/*.ts"],
     languageOptions: {
-      parser: tsParser,
+      parser: tseslint.parser,
       ecmaVersion: "latest",
     },
     plugins: {
-      ts,
+      "@typescript-eslint": tseslint.plugin,
       "minecraft-linting": minecraftLinting,
     },
     rules: {
