@@ -1,4 +1,4 @@
-name: Create Release
+name: Release Changes
 
 on:
   workflow_dispatch:
@@ -12,18 +12,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
-      - name: Use Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: "npm"
-      - name: Test and build mcpack
+      - name: Test
         run: |
           npm ci
-          npm run lint
-          npm run mcpack
-      - name: Create GitHub Release
-        uses: softprops/action-gh-release@v2.5.0
-        with:
-          draft: true
-          files: "dist/packages/*.mcpack"
+          npm run test
+      - name: Publish Release
+        run: npm run release
+        env:
+          REPO_PAT: ${{ secrets.REPO_PAT }}

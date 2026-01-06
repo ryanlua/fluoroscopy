@@ -22,11 +22,11 @@ jobs:
         with:
           node-version: 22
           cache: "npm"
-      - name: Test mcpack
+      - name: Test
         run: |
           npm ci
           npm run test
-      - name: Archive mcpack
+      - name: Archive
         uses: actions/upload-artifact@v4
         with:
           name: fluoroscopy-outline
