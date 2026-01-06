@@ -23,6 +23,7 @@
     "local-deploy": "just-scripts local-deploy",
     "mcpack": "just-scripts mcpack",
     "change": "beachball change",
+    "checkchange": "beachball check",
     "release": "just-scripts publish-release"
   }
 }
