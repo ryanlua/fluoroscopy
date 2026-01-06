@@ -23,8 +23,7 @@ jobs:
       - name: Test and build mcpack
         run: |
           npm ci
-          npm run lint
-          npm run mcpack
+          npm run test
       - name: Archive mcpack
         uses: actions/upload-artifact@v4
         with:

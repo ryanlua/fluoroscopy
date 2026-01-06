@@ -21,6 +21,7 @@ const copyTaskOptions: CopyTaskParameters = {
   copyToResourcePacks: [`./resource_packs/${projectName}`],
 };
 task("lint", coreLint(["resource_packs/**/*.json"], argv().fix));
+task("test", parallel("mcpack", "lint"));
 task("clean-local", cleanTask(DEFAULT_CLEAN_DIRECTORIES));
 task("clean-collateral", cleanCollateralTask(STANDARD_CLEAN_PATHS));
 task("clean", parallel("clean-local", "clean-collateral"));

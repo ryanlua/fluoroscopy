@@ -3,13 +3,23 @@
   "tasks": [
     {
       "type": "npm",
+      "script": "test",
+      "problemMatcher": ["$eslint-stylish"],
+      "label": "npm: test",
+      "detail": "just-scripts test",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      }
+    },
+    {
+      "type": "npm",
       "script": "lint",
       "problemMatcher": ["$eslint-stylish"],
       "label": "npm: lint",
       "detail": "just-scripts lint",
       "group": {
-        "kind": "test",
-        "isDefault": true
+        "kind": "test"
       }
     },
     {
