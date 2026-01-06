@@ -20,4 +20,4 @@ jobs:
           node-version: 22
           cache: "npm"
       - name: Validate change files
-        run: npx beachball check
+        run: npm run checkchange
