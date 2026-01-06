@@ -23,6 +23,6 @@ jobs:
       - name: Build project
         run: npm run mcpack
       - name: Publish release
-        run: npm run release
-        env:
-          REPO_PAT: ${{ secrets.REPO_PAT }}
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "dist/packages/*.mcpack"

@@ -11,7 +11,6 @@ import {
   DEFAULT_CLEAN_DIRECTORIES,
   getOrThrowFromProcess,
   watchTask,
-  publishReleaseTask,
 } from "@minecraft/core-build-tasks";
 import path from "path";
 setupEnvironment(path.resolve(__dirname, ".env"));
@@ -34,18 +33,3 @@ task(
 );
 task("mcpack", series("clean-local", "createMcpackFile"));
 task("test", parallel("mcpack", "lint"));
-task(
-  "publish-release",
-  series(
-    "mcpack",
-    publishReleaseTask({
-      repoOwner: "ryanlua",
-      repoName: "fluoroscopy-outline",
-      message: "New release of Fluoroscopy Outline resource pack",
-      artifact: {
-        sourceFormat: "archive",
-        path: `./dist/packages/${projectName}.mcpack`,
-      },
-    })
-  )
-);

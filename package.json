@@ -10,7 +10,6 @@
   "private": true,
   "devDependencies": {
     "@minecraft/core-build-tasks": "^5.5.0",
-    "beachball": "^2.61.0",
     "eslint-plugin-minecraft-linting": "^2.0.10",
     "ts-node": "^10.9.1",
     "typescript-eslint": "^8.52.0"
@@ -21,9 +20,6 @@
     "lint:fix": "just-scripts lint --fix",
     "clean": "just-scripts clean",
     "local-deploy": "just-scripts local-deploy",
-    "mcpack": "just-scripts mcpack",
-    "change": "beachball change",
-    "checkchange": "beachball check",
-    "release": "just-scripts publish-release"
+    "mcpack": "just-scripts mcpack"
   }
 }
