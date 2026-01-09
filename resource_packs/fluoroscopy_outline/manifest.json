@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Fluoroscopy Outline",
-    "description": "Outline ores with their block color for faraway identification and easier mining.\n\nSource code: github.com/ryanlua/fluoroscopy-outline",
+    "name": "Fluoroscopy",
+    "description": "Outline ores with their block color for faraway identification and easier mining.\n\nSource code: github.com/ryanlua/fluoroscopy",
     "uuid": "cb7b1b70-78c5-4d68-8006-33758047722a",
     "pack_scope": "global",
     "version": [1, 0, 0],
@@ -19,7 +19,7 @@
   "metadata": {
     "authors": ["Ryan Luu"],
     "license": "MIT",
-    "url": "https://github.com/ryanlua/fluoroscopy-outline",
+    "url": "https://github.com/ryanlua/fluoroscopy",
     "generated_with": {
       "mctoolsweb": ["0.15.2"]
     }
