@@ -1,10 +1,10 @@
 {
-  "name": "fluoroscopy-outline",
+  "name": "fluoroscopy",
   "productName": "Minecraft Resource Pack Project",
   "description": "Resource pack for outlining ores with their block color.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanlua/fluoroscopy-outline.git"
+    "url": "git+https://github.com/ryanlua/fluoroscopy.git"
   },
   "private": true,
   "devDependencies": {
