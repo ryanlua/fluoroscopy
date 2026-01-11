@@ -1,21 +1,33 @@
 {
-  "format_version": 3,
+  "format_version": 2,
   "header": {
     "name": "pack.name",
     "description": "pack.description",
     "uuid": "cb7b1b70-78c5-4d68-8006-33758047722a",
     "pack_scope": "global",
-    "version": "1.0.0",
-    "min_engine_version": "1.21.110"
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 110]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "d239e5ea-92d2-41f7-857b-b9ce19637a86",
-      "version": "1.0.0"
+      "version": [1, 0, 0]
     }
   ],
   "capabilities": ["pbr"],
+  "subpacks": [
+    {
+      "folder_name": "outline_sub_pack",
+      "name": "Outline Ores",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "glow_sub_pack",
+      "name": "Outline & Glow Ores",
+      "memory_tier": 0
+    }
+  ],
   "metadata": {
     "authors": ["Ryan Luu"],
     "license": "MIT",
