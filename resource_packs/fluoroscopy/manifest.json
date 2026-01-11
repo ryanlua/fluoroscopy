@@ -18,18 +18,18 @@
   "capabilities": ["pbr"],
   "subpacks": [
     {
-      "folder_name": "xray",
-      "name": "Outline, Glow, and Xray Ores",
+      "folder_name": "outline",
+      "name": "Outline",
       "memory_tier": 0
     },
     {
-      "folder_name": "outline",
-      "name": "Outline Ores",
+      "folder_name": "xray",
+      "name": "Outline, Glow, and Xray",
       "memory_tier": 0
     },
     {
       "folder_name": "glow",
-      "name": "Outline and Glow Ores",
+      "name": "Outline and Glow",
       "memory_tier": 0
     }
   ],
