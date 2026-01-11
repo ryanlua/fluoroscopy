@@ -18,9 +18,14 @@
   "capabilities": ["pbr"],
   "subpacks": [
     {
+      "folder_name": "outline_sub_pack",
+      "name": "Outline Ores",
+      "memory_tier": 0
+    },
+    {
       "folder_name": "glow_sub_pack",
       "name": "Outline & Glow Ores",
-      "memory_tier": 1
+      "memory_tier": 0
     }
   ],
   "metadata": {
