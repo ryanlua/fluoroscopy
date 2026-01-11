@@ -1,0 +1,51 @@
+{
+  "format_version": "1.19.30",
+  "clay": {
+    "blockshape": "invisible"
+  },
+  "deepslate": {
+    "blockshape": "invisible"
+  },
+  "dirt": {
+    "blockshape": "invisible"
+  },
+  "dripstone_block": {
+    "blockshape": "invisible"
+  },
+  "grass_block": {
+    "blockshape": "invisible"
+  },
+  "gravel": {
+    "blockshape": "invisible"
+  },
+  "ice": {
+    "blockshape": "invisible"
+  },
+  "moss_block": {
+    "blockshape": "invisible"
+  },
+  "moss_carpet": {
+    "blockshape": "invisible"
+  },
+  "podzol": {
+    "blockshape": "invisible"
+  },
+  "sand": {
+    "blockshape": "invisible"
+  },
+  "sandstone": {
+    "blockshape": "invisible"
+  },
+  "snow": {
+    "blockshape": "invisible"
+  },
+  "snow_layer": {
+    "blockshape": "invisible"
+  },
+  "stone": {
+    "blockshape": "invisible"
+  },
+  "tuff": {
+    "blockshape": "invisible"
+  }
+}
