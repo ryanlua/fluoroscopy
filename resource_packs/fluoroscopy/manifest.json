@@ -36,15 +36,15 @@
   "settings": [
     {
       "type": "label",
-      "text": "§lOutline§r - Outlines ores with their block color."
+      "text": "Outline - Outlines ores with their block color."
     },
     {
       "type": "label",
-      "text": "§lOutline and Glow§r - Outlines ores with their block color and adds a glow effect. §eRequires Vibrant Visuals."
+      "text": "Outline and Glow - Outlines ores with their block color and adds a glow effect. §eRequires Vibrant Visuals."
     },
     {
       "type": "label",
-      "text": "§lOutline, Glow, and Xray§r - Outlines ores with their block color, adds a glow effect, and makes all non-ore blocks invisible. §eRequires Vibrant Visuals."
+      "text": "Outline, Glow, and Xray - Outlines ores with their block color, adds a glow effect, and makes all non-ore blocks invisible. §eRequires Vibrant Visuals."
     },
     {
       "type": "label",
