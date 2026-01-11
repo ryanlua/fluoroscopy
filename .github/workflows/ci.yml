@@ -26,4 +26,5 @@ jobs:
       - name: Archive artifacts
         uses: actions/upload-artifact@v6
         with:
-          path: "dist/packages/*.mcpack"
+          name: fluoroscopy
+          path: dist/packages/*.mcpack
