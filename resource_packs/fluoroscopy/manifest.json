@@ -16,6 +16,13 @@
     }
   ],
   "capabilities": ["pbr"],
+  "subpacks": [
+    {
+      "folder_name": "glow_sub_pack",
+      "name": "Outline & Glow Ores",
+      "memory_tier": 1
+    }
+  ],
   "metadata": {
     "authors": ["Ryan Luu"],
     "license": "MIT",
