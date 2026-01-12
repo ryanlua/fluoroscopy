@@ -46,7 +46,7 @@ All deepslate variants are also included with matching outlines.
 
 ## Comparisons
 
-See how Fluoroscopy compares to other similar outline, glow, and x-ray resource packs on [CurseForge](https://www.curseforge.com/minecraft-bedrock) and [MCPEDL](https://mcpedl.com). It is important to note that Fluoroscopy can be an outline, glow, or x-ray resource pack because it's three settings
+See how Fluoroscopy compares to other similar outline, glow, and x-ray resource packs on [CurseForge](https://www.curseforge.com/minecraft-bedrock) and [MCPEDL](https://mcpedl.com). It is important to note that Fluoroscopy can be an outline, glow, or x-ray resource pack because it's settings.
 
 Features compared are based on the resource pack type. Outline resource packs will not be compared for glow or x-ray features, and glow resource packs will not be compared for x-ray features.
 
