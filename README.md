@@ -15,17 +15,17 @@ A Minecraft Bedrock resource pack that outlines ores with their block color for 
 This resource pack adds colored outlines to all ore blocks in Minecraft, including:
 
 - [x] Coal Ore
-- [x] Copper Ore
 - [x] Iron Ore
+- [x] Copper Ore
 - [x] Gold Ore
+- [x] Nether Gold Ore
+- [x] Gilded Blackstone
 - [x] Redstone Ore
+- [x] Emerald Ore
 - [x] Lapis Lazuli Ore
 - [x] Diamond Ore
-- [x] Emerald Ore
-- [x] Ancient Debris
-- [x] Nether Gold Ore
 - [x] Nether Quartz Ore
-- [x] Gilded Blackstone
+- [x] Ancient Debris
 
 All deepslate variants are also included with matching outlines.
 
