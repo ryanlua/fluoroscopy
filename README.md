@@ -2,7 +2,7 @@
   <img alt="Fluoroscopy" width="512" src="assets/logo.png">
 </h1>
 
-A Minecraft Bedrock Vibrant Visuals resource pack that outlines and glows ores with their block color with optional x-ray. Fluoroscopy is designed around the [new Bedrock Textures](https://www.minecraft.net/en-us/article/try-new-bedrock-textures) to match vanilla as much as possible.
+A Minecraft Bedrock Vibrant Visuals resource pack that outlines and glows ores with their block color, with optional x-ray. Fluoroscopy is designed around the [new Bedrock Textures](https://www.minecraft.net/en-us/article/try-new-bedrock-textures) to match vanilla as much as possible.
 
 There are three settings to choose from, each providing a different level of visibility for ores:
 
