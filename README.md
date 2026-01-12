@@ -4,8 +4,11 @@
 
 A Minecraft Bedrock resource pack that outlines ores with their block color for faraway identification and easier mining. Fluoroscopy is designed around the [new Bedrock Textures](https://www.minecraft.net/en-us/article/try-new-bedrock-textures) and supports Vibrant Visuals.
 
-![Screenshot of Overworld](assets/overworld_screenshot.png)
-![Screenshot of Nether](assets/nether_screenshot.png)
+| Resolution              | Overworld                                                                              | The Nether                                                                           |
+| ----------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Outline                 | ![Overworld with ores outlines](assets/outline_overworld_screenshot.png)               | ![The Nether with ores outlines](assets/outline_nether_screenshot.png)               |
+| Outline and Glow        | ![Overworld with glowing ores outlines](assets/glow_overworld_screenshot.png)          | ![The Nether with glowing ores outlines](assets/glow_nether_screenshot.png)          |
+| Outline, Glow, and Xray | ![Overworld with glowing ores outlines and xray](assets/xray_overworld_screenshot.png) | ![The Nether with glowing ores outlines and xray](assets/xray_nether_screenshot.png) |
 
 ## Ores
 
