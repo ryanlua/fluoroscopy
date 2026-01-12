@@ -1,8 +1,8 @@
 {
   "format_version": 3,
   "header": {
-    "name": "pack.name",
-    "description": "pack.description",
+    "name": "Fluoroscopy",
+    "description": "Outline ores with their block color for faraway identification and easier mining.",
     "uuid": "cb7b1b70-78c5-4d68-8006-33758047722a",
     "pack_scope": "global",
     "version": "2.0.0",
@@ -48,7 +48,7 @@
     },
     {
       "type": "label",
-      "text": "For more information and updates, visit §ogithub.com/ryanlua/fluoroscopy"
+      "text": "For more updates, visit §ogithub.com/ryanlua/fluoroscopy"
     }
   ],
   "metadata": {
