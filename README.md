@@ -43,3 +43,48 @@ This resource pack adds colored outlines to all ore blocks in Minecraft, includi
 All deepslate variants are also included with matching outlines.
 
 ![Ore Blocks Comparison](assets/blocks.png)
+
+## Comparisons
+
+See how Fluoroscopy compares to other similar outline, glow, and x-ray resource packs on [CurseForge](https://www.curseforge.com/minecraft-bedrock) and [MCPEDL](https://mcpedl.com).
+
+Features compared are based on the resource pack type. Outline resource packs will not be compared for glow or x-ray features, and glow resource packs will not be compared for x-ray features.
+
+<details>
+
+<summary>X-Ray MC</summary>
+
+[CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/x-ray-works-in-original-patch-everywhere)
+
+### Features
+
+| Outline, Glow, and X-ray | Fluoroscopy        | X-Ray MC                 |
+| ------------------------ | ------------------ | ------------------------ |
+| Toggle X-ray             | :heavy_check_mark: | :heavy_multiplication_x: |
+| Outline & Glowing Ores   | :heavy_check_mark: | :heavy_check_mark:       |
+
+</details>
+
+<details>
+
+<summary>Glow Em All</summary>
+
+[CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
+
+| Glow        | Fluoroscopy        | Glow Em All              |
+| ----------- | ------------------ | ------------------------ |
+| No Patching | :heavy_check_mark: | :heavy_multiplication_x: |
+
+</details>
+
+<details>
+
+<summary>Animated Glowing Ores</summary>
+
+[CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-glowing-ores)
+
+| Glow              | Fluoroscopy              | Glow Em All        |
+| ----------------- | ------------------------ | ------------------ |
+| Animated Textures | :heavy_multiplication_x: | :heavy_check_mark: |
+
+</details>
