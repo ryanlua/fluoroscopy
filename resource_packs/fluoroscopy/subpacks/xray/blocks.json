@@ -1,6 +1,15 @@
 {
   "format_version": "1.19.30",
+  "basalt": {
+    "blockshape": "invisible"
+  },
+  "blackstone": {
+    "blockshape": "invisible"
+  },
   "clay": {
+    "blockshape": "invisible"
+  },
+  "crimson_nylium": {
     "blockshape": "invisible"
   },
   "deepslate": {
@@ -21,10 +30,16 @@
   "ice": {
     "blockshape": "invisible"
   },
+  "magma": {
+    "blockshape": "invisible"
+  },
   "moss_block": {
     "blockshape": "invisible"
   },
   "moss_carpet": {
+    "blockshape": "invisible"
+  },
+  "netherrack": {
     "blockshape": "invisible"
   },
   "podzol": {
@@ -42,10 +57,19 @@
   "snow_layer": {
     "blockshape": "invisible"
   },
+  "soul_sand": {
+    "blockshape": "invisible"
+  },
+  "soul_soil": {
+    "blockshape": "invisible"
+  },
   "stone": {
     "blockshape": "invisible"
   },
   "tuff": {
+    "blockshape": "invisible"
+  },
+  "warped_nylium": {
     "blockshape": "invisible"
   }
 }
