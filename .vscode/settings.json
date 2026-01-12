@@ -21,6 +21,6 @@
     "**/.DS_Store": true,
     "**/node_modules": true
   },
-  "cSpell.words": ["mcpack", "mctoolsweb"],
+  "cSpell.words": ["blockshape", "deepslate", "mcpack", "mctoolsweb", "netherrack", "nylium", "overworld", "podzol"],
   "editor.tabSize": 2
 }
