@@ -2,7 +2,7 @@
   "format_version": 3,
   "header": {
     "name": "Fluoroscopy",
-    "description": "Outline ores with their block color for faraway identification and easier mining.",
+    "description": "Outline and glow ores with their block color with optional x-ray.",
     "uuid": "cb7b1b70-78c5-4d68-8006-33758047722a",
     "pack_scope": "global",
     "version": "2.0.0",
@@ -24,7 +24,7 @@
     },
     {
       "folder_name": "xray",
-      "name": "Outline, Glow, and Xray",
+      "name": "Outline, Glow, and X-ray",
       "memory_performance_tier": 1
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "type": "label",
-      "text": "Outline, Glow, and Xray - Outlines ores with their block color, adds a glow effect, and makes all non-ore blocks invisible. §eRequires Vibrant Visuals."
+      "text": "Outline, Glow, and X-ray - Outlines ores with their block color, adds a glow effect, and makes all non-ore blocks invisible. §eRequires Vibrant Visuals."
     },
     {
       "type": "label",
