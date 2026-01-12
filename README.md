@@ -56,8 +56,6 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/x-ray-works-in-original-patch-everywhere)
 
-### Features
-
 | Outline, Glow, and X-ray | Fluoroscopy        | X-Ray MC                 |
 | ------------------------ | ------------------ | ------------------------ |
 | Toggle X-ray             | :heavy_check_mark: | :heavy_multiplication_x: |
@@ -71,9 +69,11 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
 
-| Glow        | Fluoroscopy        | Glow Em All              |
-| ----------- | ------------------ | ------------------------ |
-| No Patching | :heavy_check_mark: | :heavy_multiplication_x: |
+| Glow         | Fluoroscopy        | Glow Em All              |
+| ------------ | ------------------ | ------------------------ |
+| No Patching  | :heavy_check_mark: | :heavy_multiplication_x: |
+| Outline Ores | :heavy_check_mark: | :heavy_multiplication_x: |
+| Glowing Ores | :heavy_check_mark: | :heavy_check_mark:       |
 
 </details>
 
@@ -83,8 +83,9 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-glowing-ores)
 
-| Glow              | Fluoroscopy              | Glow Em All        |
-| ----------------- | ------------------------ | ------------------ |
-| Animated Textures | :heavy_multiplication_x: | :heavy_check_mark: |
+| Glow                   | Fluoroscopy              | Glow Em All        |
+| ---------------------- | ------------------------ | ------------------ |
+| Animated Outline       | :heavy_multiplication_x: | :heavy_check_mark: |
+| Outline & Glowing Ores | :heavy_check_mark:       | :heavy_check_mark: |
 
 </details>
