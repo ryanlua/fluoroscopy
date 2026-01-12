@@ -65,6 +65,19 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 <details>
 
+<summary>Better X-Ray</summary>
+
+[CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/better-bedrock-x-ray)
+
+| X-ray                    | Fluoroscopy        | X-Ray MC                 |
+| ------------------------ | ------------------ | ------------------------ |
+| X-ray Toggle             | :heavy_check_mark: | :heavy_multiplication_x: |
+| Outline & Glowing Ores   | :heavy_check_mark: | :heavy_multiplication_x: |
+
+</details>
+
+<details>
+
 <summary>Glow Em All</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
