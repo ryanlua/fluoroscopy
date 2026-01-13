@@ -6,7 +6,7 @@
   <a href="https://www.curseforge.com/minecraft-bedrock/texture-packs/fluoroscopy">
     <img alt="CurseForge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">
   </a>
-  <a href="https://mcpedl.com/fluoroscopy">
+  <a href="https://mcpedl.com/fluoroscopy/">
     <img alt="MCPEDL" src="https://raw.githubusercontent.com/Hajsori/devins-badges/HEAD/assets/cozy/available/mcpedl_vector.svg">
   </a>
   <a href="https://github.com/ryanlua/fluoroscopy/releases">
@@ -67,7 +67,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 <summary>X-Ray MC by RisabGamerz</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/x-ray-works-in-original-patch-everywhere)
-[MCPEDL](https://mcpedl.com/x-ray-works-in-original-patch-everywhere)
+[MCPEDL](https://mcpedl.com/x-ray-works-in-original-patch-everywhere/)
 
 | Outline, Glow, and X-ray | Fluoroscopy        | X-Ray MC                 |
 | ------------------------ | ------------------ | ------------------------ |
@@ -108,6 +108,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 <summary>Glow Em All by by Azion_Studios</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
+[MCPEDL](https://mcpedl.com/glow-em-all-shader/)
 
 | Glow         | Fluoroscopy              | Glow Em All              |
 | ------------ | ------------------------ | ------------------------ |
