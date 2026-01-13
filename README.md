@@ -2,8 +2,17 @@
   <img alt="Fluoroscopy" width="512" src="assets/logo.png">
 </h1>
 
-[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft-bedrock/texture-packs/fluoroscopy)
-[![MCPEDL](https://raw.githubusercontent.com/Hajsori/devins-badges/879a95d33a6e30e5cbc8adb7bac0621c5753f294/assets/cozy/available/mcpedl_vector.svg)](https://mcpedl.com/fluoroscopy)
+<div align="center">
+  <a href="https://www.curseforge.com/minecraft-bedrock/texture-packs/fluoroscopy">
+    <img alt="CurseForge" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">
+  </a>
+  <a href="https://mcpedl.com/fluoroscopy">
+    <img alt="MCPEDL" src="https://raw.githubusercontent.com/Hajsori/devins-badges/HEAD/assets/cozy/available/mcpedl_vector.svg">
+  </a>
+  <a href="https://github.com/ryanlua/fluoroscopy/releases">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">
+  </a>
+</div>
 
 A Minecraft Bedrock Vibrant Visuals resource pack that outlines and glows ores with their block color, with optional x-ray. Fluoroscopy is designed around the [new Bedrock Textures](https://www.minecraft.net/en-us/article/try-new-bedrock-textures) to match vanilla as much as possible.
 
