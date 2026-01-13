@@ -64,7 +64,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 <details>
 
-<summary>X-Ray MC</summary>
+<summary>X-Ray MC by RisabGamerz</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/x-ray-works-in-original-patch-everywhere)
 
@@ -77,20 +77,20 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 <details>
 
-<summary>Better X-Ray</summary>
+<summary>Better X-Ray by DynamixLuffy69</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/better-bedrock-x-ray)
 
-| X-ray                    | Fluoroscopy        | X-Ray MC                 |
-| ------------------------ | ------------------ | ------------------------ |
-| X-ray Toggle             | :heavy_check_mark: | :heavy_multiplication_x: |
-| Outline & Glowing Ores   | :heavy_check_mark: | :heavy_multiplication_x: |
+| X-ray                  | Fluoroscopy        | X-Ray MC                 |
+| ---------------------- | ------------------ | ------------------------ |
+| X-ray Toggle           | :heavy_check_mark: | :heavy_multiplication_x: |
+| Outline & Glowing Ores | :heavy_check_mark: | :heavy_multiplication_x: |
 
 </details>
 
 <details>
 
-<summary>Glow Em All</summary>
+<summary>Glow Em All by by Azion_Studios</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
 
@@ -105,7 +105,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 <details>
 
-<summary>Animated Glowing Ores</summary>
+<summary>Animated Glowing Ores by by Bruhh69</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-glowing-ores)
 
