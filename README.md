@@ -67,6 +67,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 <summary>X-Ray MC by RisabGamerz</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/x-ray-works-in-original-patch-everywhere)
+[MCPEDL](https://mcpedl.com/x-ray-works-in-original-patch-everywhere)
 
 | Outline, Glow, and X-ray | Fluoroscopy        | X-Ray MC                 |
 | ------------------------ | ------------------ | ------------------------ |
