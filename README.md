@@ -123,6 +123,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 <summary>Animated Glowing Ores by Bruhh69</summary>
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-glowing-ores)
+[MCPEDL](https://mcpedl.com/animated-glowing-ores/)
 
 | Outline and Glow       | Fluoroscopy              | Glow Em All              |
 | ---------------------- | ------------------------ | ------------------------ |
