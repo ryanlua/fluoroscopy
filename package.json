@@ -1,11 +1,18 @@
 {
   "name": "fluoroscopy",
+  "version": "2.0.0",
   "productName": "Minecraft Resource Pack Project",
+  "private": true,
+  "homepage": "https://github.com/ryanlua/fluoroscopy#readme",
+  "bugs": {
+    "url": "https://github.com/ryanlua/fluoroscopy/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryanlua/fluoroscopy.git"
   },
-  "private": true,
+  "license": "MIT",
+  "author": "Ryan Luu <ryan.luu@ryanluu.dev>",
   "devDependencies": {
     "@minecraft/core-build-tasks": "^5.5.0",
     "eslint-plugin-minecraft-linting": "^2.0.10",
