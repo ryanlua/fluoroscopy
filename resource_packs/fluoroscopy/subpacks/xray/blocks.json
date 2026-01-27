@@ -25,7 +25,7 @@
     "blockshape": "invisible"
   },
   "gravel": {
-    "blockshape": "torch"
+    "blockshape": "bamboo"
   },
   "ice": {
     "blockshape": "invisible"
@@ -46,7 +46,7 @@
     "blockshape": "invisible"
   },
   "sand": {
-    "blockshape": "torch"
+    "blockshape": "bamboo"
   },
   "sandstone": {
     "blockshape": "invisible"
