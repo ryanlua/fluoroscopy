@@ -82,7 +82,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/better-bedrock-x-ray)
 
-| X-ray                  | Fluoroscopy        | X-Ray MC                 |
+| X-ray                  | Fluoroscopy        | Better X-Ray             |
 | ---------------------- | ------------------ | ------------------------ |
 | X-ray Toggle           | :heavy_check_mark: | :heavy_multiplication_x: |
 | Outline & Glowing Ores | :heavy_check_mark: | :heavy_multiplication_x: |
@@ -95,7 +95,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 
 [MCPEDL](https://mcpedl.com/x-ray-d6b/)
 
-| X-ray                  | Fluoroscopy              | Glow Em All              |
+| X-ray                  | Fluoroscopy              | X-Ray                    |
 | ---------------------- | ------------------------ | ------------------------ |
 | X-ray Toggle           | :heavy_check_mark:       | :heavy_multiplication_x: |
 | Outline & Glowing Ores | :heavy_check_mark:       | :heavy_multiplication_x: |
@@ -126,7 +126,7 @@ Features compared are based on the resource pack type. Outline resource packs wi
 [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-glowing-ores)
 [MCPEDL](https://mcpedl.com/animated-glowing-ores/)
 
-| Outline and Glow       | Fluoroscopy              | Glow Em All              |
+| Outline and Glow       | Fluoroscopy              | Animated Glowing Ores    |
 | ---------------------- | ------------------------ | ------------------------ |
 | Glow Toggle            | :heavy_check_mark:       | :heavy_multiplication_x: |
 | Outline & Glowing Ores | :heavy_check_mark:       | :heavy_check_mark:       |
