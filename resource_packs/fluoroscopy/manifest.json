@@ -48,7 +48,7 @@
     },
     {
       "type": "dropdown",
-      "text": "Falling Blocks Visibility\n§7Visibility of falling blocks such as sand and gravel",
+      "text": "Falling blocks visibility\n§7Changes the block shape of falling blocks such as sand and gravel",
       "name": "fluoroscopy:falling_block_visibility",
       "options": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "type": "label",
-      "text": "§oor more updates, visit §ogithub.com/ryanlua/fluoroscopy"
+      "text": "§oFor updates, visit §ogithub.com/ryanlua/fluoroscopy"
     }
   ],
   "metadata": {
