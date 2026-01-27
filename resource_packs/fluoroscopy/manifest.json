@@ -47,8 +47,28 @@
       "text": "Outline, Glow, and X-ray - Outlines ores with their block color, adds a glow effect, and makes all non-ore blocks invisible. §eRequires Vibrant Visuals."
     },
     {
+      "type": "dropdown",
+      "text": "Falling Blocks Visibility\n§7Visibility of falling blocks such as sand and gravel",
+      "name": "fluoroscopy:falling_block_visibility",
+      "options": [
+        {
+          "name": "high",
+          "text": "Visible"
+        },
+        {
+          "name": "low",
+          "text": "Minimal"
+        },
+        {
+          "name": "none",
+          "text": "Invisible"
+        }
+      ],
+      "default": "high"
+    },
+    {
       "type": "label",
-      "text": "For more updates, visit §ogithub.com/ryanlua/fluoroscopy"
+      "text": "§oor more updates, visit §ogithub.com/ryanlua/fluoroscopy"
     }
   ],
   "metadata": {
