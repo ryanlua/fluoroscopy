@@ -27,7 +27,7 @@ jobs:
       - name: Run tests
         run: npm run test
       - name: Archive artifacts
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: fluoroscopy
           path: dist/packages/*.mcpack
