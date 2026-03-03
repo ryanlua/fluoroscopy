@@ -31,3 +31,4 @@ jobs:
         with:
           name: fluoroscopy
           path: dist/packages/*.mcpack
+          archive: false
