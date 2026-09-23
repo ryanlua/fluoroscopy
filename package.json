@@ -16,9 +16,9 @@
   "devDependencies": {
     "@minecraft/core-build-tasks": "^5.7.0",
     "eslint-plugin-minecraft-linting": "^2.0.12",
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.62.0"
+    "typescript-eslint": "^8.70.1"
   },
   "scripts": {
     "test": "just-scripts test",
