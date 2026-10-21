@@ -15,7 +15,7 @@
   "author": "Ryan Luu <ryan.luu@ryanluu.dev>",
   "devDependencies": {
     "@minecraft/core-build-tasks": "^5.7.1",
-    "eslint-plugin-minecraft-linting": "^2.0.12",
+    "eslint-plugin-minecraft-linting": "^2.0.13",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.71.2"
